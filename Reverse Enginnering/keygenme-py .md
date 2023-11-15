@@ -1,7 +1,7 @@
 ### Approach used 
 The thing which gives us a lead is this :-
 
-![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/36f32361-d0dc-464f-94a7-7a9466a39b9f)
+![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/427c2deb-00a1-4c86-9dd5-d91607a95cea)
 
 * This shows us that we have already got half of the flag i.e `"picoCTF{1n_7h3_|<3y_of_"` and we just have to find `"xxxxxxxx"` part.
 ```
