@@ -1,15 +1,15 @@
 ### Approach used
 First we will download the file using 'wget' command, then use cat to read the file.
 
-![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/61a05cf8-2244-44f9-b677-86cd308f66a5)
+![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/e23f78fe-ce57-40ce-9f57-7dc233a913ce)
 
  We get a sequence of numbers `165 248 94 346 299 73 198 221 313 137 205 87 336 110 186 69 223 213 216 216 177 138`. Now we will make a python file named 'basic-mod1.py' and use 'nano' editor to write the code.
 
- ![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/b8354af7-6edc-4ca4-bfc9-61febe2225fe)
+![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/97924fbf-d7ff-43d2-81a1-da9120fa9cff)
 
 We are using for loop to get the characters for every number and now we will just run the python file.
 
-![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/aad3ae3e-ac89-4d5b-84da-1632285d3e79)
+![image](https://github.com/UselessAaka/picoCTF-Writeups/assets/148384618/a381974b-c798-4f14-b6ee-92e94d357323)
 
 Hence, we will get the flag.
 
