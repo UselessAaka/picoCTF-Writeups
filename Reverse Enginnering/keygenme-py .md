@@ -20,7 +20,7 @@ def enter_license():
 
 * Next we see `    if len(key) != len(key_full_template_trial):
         return False ` which basically checks if the length of the key and our flag is same or not.
-  ```
+```
 import hashlib
 key_part_staticl_trial = "picoCTF{1n_7h3_|<3y_of_"
 #key_part_dynamic1_trial = "xxxxxxxx"
@@ -31,5 +31,6 @@ key_full_template_trial = key_part_staticl_trial + key_part_dynamicl_trial + key
 print(key_full_template_trial)
 ```
 A code will be written like the above one to get the flag.
+
 ### Flag
 > picoCTF{1n_7h3_|<3y_of_54ef6292}
